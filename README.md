@@ -1,1 +1,1 @@
-# verbose-spork
+# Verse Book is a modern platform for discovering, reading, and organizing meaningful verse
