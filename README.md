@@ -1,1 +1,1 @@
-# Verse Book is a modern platform for discovering, reading, and organizing meaningful verse
+: #Verse Book. Verse Book is a modern platform for discovering, reading, and organizing meaningful verses
